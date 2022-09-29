@@ -2,10 +2,9 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
----
-
 # > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 # {: .prompt-tip }
+---
 
 我要说的是，《查拉图斯特拉如是说》这本书中的“永恒轮回”的想法，让我有很大的感触。人在有限的生命里，在自身上会有无尽的循环。例如欲望、迷惘，又如苦难。我们无尽纠结沉浸在其中，或者不愿意又挣扎着想要跳出来，直到我们得到一个我们热爱的，哪怕生命被夺去，也希望再来一次的循环。但是我认为很多人没有找到自己的热爱，至少我是的。
 
