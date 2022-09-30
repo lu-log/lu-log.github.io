@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: lu-blog                          # 网站名称
+title: 陆                          # 网站名称
 
 tagline: 《苦行僧》   # it will display as the sub-title  描述
 
@@ -31,11 +31,11 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://lu-log.github.io'
 
-github:
-  username: github_username             # change to your github username
+# github:
+#  username:              # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#  username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
